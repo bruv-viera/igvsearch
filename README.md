@@ -1,2 +1,2 @@
-# reciprocal-rank-fusion-for-hybrid-search
+#hybrid-search
 info bank
