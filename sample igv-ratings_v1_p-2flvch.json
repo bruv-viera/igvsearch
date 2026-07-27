@@ -1,0 +1,291 @@
+{
+ "study": "igv-relevance-rating",
+ "participant_id": "p-2flvch",
+ "version": 1,
+ "started_at": "2026-07-24T12:28:11.899Z",
+ "finished_at": "2026-07-24T12:29:54.471Z",
+ "n_pairs": 40,
+ "n_rated": 40,
+ "ratings": [
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a17ff71a5d7a732e77fd",
+   "rating": 2,
+   "position": 1,
+   "rated_at": "2026-07-24T12:28:13.924Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a13cf71a5d7a732e77fa",
+   "rating": 2,
+   "position": 2,
+   "rated_at": "2026-07-24T12:28:15.282Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d62cb54c92b073b2002ba0",
+   "rating": 2,
+   "position": 3,
+   "rated_at": "2026-07-24T12:28:16.534Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a153f71a5d7a732e77fb",
+   "rating": 2,
+   "position": 4,
+   "rated_at": "2026-07-24T12:28:17.914Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a19bf71a5d7a732e77fe",
+   "rating": 2,
+   "position": 5,
+   "rated_at": "2026-07-24T12:28:18.874Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a235f71a5d7a732e7805",
+   "rating": 2,
+   "position": 6,
+   "rated_at": "2026-07-24T12:28:19.932Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d62c8a4c92b073b2002b9e",
+   "rating": 2,
+   "position": 7,
+   "rated_at": "2026-07-24T12:28:20.892Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5a1c4f71a5d7a732e7800",
+   "rating": 2,
+   "position": 8,
+   "rated_at": "2026-07-24T12:28:22.752Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d62ca04c92b073b2002b9f",
+   "rating": 2,
+   "position": 9,
+   "rated_at": "2026-07-24T12:28:23.832Z"
+  },
+  {
+   "query_id": "Q01",
+   "igv_id": "66d5709d5e27b9bcf8ff9c3c",
+   "rating": 2,
+   "position": 10,
+   "rated_at": "2026-07-24T12:28:25.062Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d70afd9842769ddfefe1ee",
+   "rating": 2,
+   "position": 11,
+   "rated_at": "2026-07-24T12:28:26.179Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66e89a12af2647a86e74a146",
+   "rating": 2,
+   "position": 12,
+   "rated_at": "2026-07-24T12:28:27.282Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6f40e9842769ddfefe0ee",
+   "rating": 2,
+   "position": 13,
+   "rated_at": "2026-07-24T12:28:28.384Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6d53fd28af346fda0a988",
+   "rating": 2,
+   "position": 14,
+   "rated_at": "2026-07-24T12:28:29.502Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6f4589842769ddfefe0f1",
+   "rating": 2,
+   "position": 15,
+   "rated_at": "2026-07-24T12:28:30.559Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6fde59842769ddfefe15c",
+   "rating": 2,
+   "position": 16,
+   "rated_at": "2026-07-24T12:28:31.610Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6d9eed28af346fda0a9be",
+   "rating": 2,
+   "position": 17,
+   "rated_at": "2026-07-24T12:28:32.614Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6fae29842769ddfefe13a",
+   "rating": 2,
+   "position": 18,
+   "rated_at": "2026-07-24T12:28:33.590Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6ddbdd35448426ca06613",
+   "rating": 2,
+   "position": 19,
+   "rated_at": "2026-07-24T12:28:34.558Z"
+  },
+  {
+   "query_id": "Q02",
+   "igv_id": "66d6d477d28af346fda0a97f",
+   "rating": 2,
+   "position": 20,
+   "rated_at": "2026-07-24T12:28:35.526Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66e89d28af2647a86e74a168",
+   "rating": 3,
+   "position": 21,
+   "rated_at": "2026-07-24T12:28:36.597Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d5a3a9f71a5d7a732e7815",
+   "rating": 4,
+   "position": 22,
+   "rated_at": "2026-07-24T12:28:37.790Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d6f13a9842769ddfefe0ce",
+   "rating": 5,
+   "position": 23,
+   "rated_at": "2026-07-24T12:28:39.057Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d5a345f71a5d7a732e7811",
+   "rating": 2,
+   "position": 24,
+   "rated_at": "2026-07-24T12:28:53.726Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d6f5069842769ddfefe0f8",
+   "rating": 3,
+   "position": 25,
+   "rated_at": "2026-07-24T12:28:54.882Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d632dd4c92b073b2002be6",
+   "rating": 4,
+   "position": 26,
+   "rated_at": "2026-07-24T12:28:55.614Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d70ae79842769ddfefe1ed",
+   "rating": 3,
+   "position": 27,
+   "rated_at": "2026-07-24T12:28:56.251Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d5a3ddf71a5d7a732e7817",
+   "rating": 2,
+   "position": 28,
+   "rated_at": "2026-07-24T12:28:56.541Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d5a318f71a5d7a732e780f",
+   "rating": 4,
+   "position": 29,
+   "rated_at": "2026-07-24T12:28:56.832Z"
+  },
+  {
+   "query_id": "Q03",
+   "igv_id": "66d62d364c92b073b2002ba6",
+   "rating": 3,
+   "position": 30,
+   "rated_at": "2026-07-24T12:29:11.357Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66e89ae4af2647a86e74a14f",
+   "rating": 4,
+   "position": 31,
+   "rated_at": "2026-07-24T12:29:36.966Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d62e704c92b073b2002bb3",
+   "rating": 5,
+   "position": 32,
+   "rated_at": "2026-07-24T12:29:38.496Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d707849842769ddfefe1c8",
+   "rating": 3,
+   "position": 33,
+   "rated_at": "2026-07-24T12:29:40.777Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d6e9e39842769ddfefe077",
+   "rating": 4,
+   "position": 34,
+   "rated_at": "2026-07-24T12:29:41.766Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66e89ab0af2647a86e74a14d",
+   "rating": 5,
+   "position": 35,
+   "rated_at": "2026-07-24T12:29:42.839Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d5a71ef71a5d7a732e783b",
+   "rating": 4,
+   "position": 36,
+   "rated_at": "2026-07-24T12:29:43.896Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d6f05e9842769ddfefe0c5",
+   "rating": 4,
+   "position": 37,
+   "rated_at": "2026-07-24T12:29:46.386Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d6f6c09842769ddfefe10c",
+   "rating": 4,
+   "position": 38,
+   "rated_at": "2026-07-24T12:29:47.534Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d571375e27b9bcf8ff9c43",
+   "rating": 3,
+   "position": 39,
+   "rated_at": "2026-07-24T12:29:48.764Z"
+  },
+  {
+   "query_id": "Q06",
+   "igv_id": "66d710139842769ddfefe227",
+   "rating": 3,
+   "position": 40,
+   "rated_at": "2026-07-24T12:28:58.066Z"
+  }
+ ]
+}
