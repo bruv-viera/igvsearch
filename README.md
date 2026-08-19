@@ -1,2 +1,0 @@
-#hybrid-search
-info bank
