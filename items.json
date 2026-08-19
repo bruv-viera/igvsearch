@@ -1,0 +1,1133 @@
+{
+ "study": "Rating the relevance of interactive geovisualisations",
+ "generated": "2026-08-19T13:27:51+00:00",
+ "scale": [
+  {
+   "value": 0,
+   "label": "No match"
+  },
+  {
+   "value": 1,
+   "label": "Very weak"
+  },
+  {
+   "value": 2,
+   "label": "Weak"
+  },
+  {
+   "value": 3,
+   "label": "Moderate"
+  },
+  {
+   "value": 4,
+   "label": "Strong"
+  },
+  {
+   "value": 5,
+   "label": "Perfect"
+  }
+ ],
+ "comments_per_query": 1,
+ "versions": {
+  "1": [
+   "Q01",
+   "Q08",
+   "Q23"
+  ],
+  "2": [
+   "Q02",
+   "Q12",
+   "Q24"
+  ],
+  "3": [
+   "Q03",
+   "Q16",
+   "Q25"
+  ],
+  "4": [
+   "Q04",
+   "Q09",
+   "Q26"
+  ],
+  "5": [
+   "Q05",
+   "Q13",
+   "Q27"
+  ],
+  "6": [
+   "Q06",
+   "Q17",
+   "Q20"
+  ],
+  "7": [
+   "Q07",
+   "Q10",
+   "Q21"
+  ],
+  "8": [
+   "Q14",
+   "Q18",
+   "Q22"
+  ],
+  "9": [
+   "Q11",
+   "Q15",
+   "Q19"
+  ]
+ },
+ "queries": [
+  {
+   "query_id": "Q01",
+   "query_text": "Live radar and next-few-hours precipitation nowcast for Texas during active severe weather",
+   "profile": "A",
+   "items": [
+    {
+     "igv_id": "66d5a235f71a5d7a732e7805",
+     "title": "Interactive Future Radar Forecast Next 12 to 72 Hours",
+     "description": "High-resolution predictive weather radar. Animate the interactive future radar forecast in motion for the next 12 to 72 hours.",
+     "url": "https://www.iweathernet.com/interactive-radar",
+     "preview": "previews/66d5a235f71a5d7a732e7805.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d5a17ff71a5d7a732e77fd",
+     "title": "Ventusky - Wind, Rain and Temperature Maps",
+     "description": "Live wind, rain, radar or temperature maps, more than 50 weather layers, detailed forecast for your place, data from the best weather forecast models with high resolution",
+     "url": "https://www.ventusky.com/",
+     "preview": "previews/66d5a17ff71a5d7a732e77fd.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d5a19bf71a5d7a732e77fe",
+     "title": "NWS Radar",
+     "description": "An official website of the United States government Answers to common questions on our FAQ and Glossary or contact us. Learn more about the National Weather Service mission and vision.…",
+     "url": "https://radar.weather.gov/",
+     "preview": "previews/66d5a19bf71a5d7a732e77fe.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d62ca04c92b073b2002b9f",
+     "title": "Hydromet - Map View - Stream Flow and Weather",
+     "description": "LCRA’s Hydromet is a system of more than 275 automated river and weather gauges throughout the lower Colorado River basin in Texas. The Hydromet provides near-real-time data* on streamflow,…",
+     "url": "https://hydromet.lcra.org/",
+     "preview": "previews/66d62ca04c92b073b2002b9f.png",
+     "cell_role": "strong"
+    }
+   ]
+  },
+  {
+   "query_id": "Q08",
+   "query_text": "Free summer-meal sites and food-pantry access maps across Texas, 2024",
+   "profile": "C",
+   "items": [
+    {
+     "igv_id": "66d6f8889842769ddfefe120",
+     "title": "Summer Meal Site Map",
+     "description": "Summer meals are now being served in a community near you in Texas! Healthy, no-cost meals are available to kids 18 and younger and enrolled students with disabilities up to 21 years old.…",
+     "url": "https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map",
+     "preview": "previews/66d6f8889842769ddfefe120.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d703bb9842769ddfefe19c",
+     "title": "Food Map | Find Maine Food Pantries | Good Shepherd Food Bank",
+     "description": "Use Good Shepherd Food Bank's Food Map to find a local food pantry. We partner with over 500 hunger-relief organizations across Maine to help feed every county.",
+     "url": "https://www.gsfb.org/food-map/",
+     "preview": "previews/66d703bb9842769ddfefe19c.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d703d19842769ddfefe19d",
+     "title": "Food Map - City Harvest",
+     "description": "Food Map Need help finding food? This map shows locations that are currently distributing food, free of charge, throughout New York City. Location sites include soup kitchens, food…",
+     "url": "https://www.cityharvest.org/food-map/",
+     "preview": "previews/66d703d19842769ddfefe19d.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d707849842769ddfefe1c8",
+     "title": "Chronotrains - Europe Train Map",
+     "description": "Visualize where you can travel by train in Europe on this interactive map.",
+     "url": "https://www.chronotrains.com/en",
+     "preview": "previews/66d707849842769ddfefe1c8.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q23",
+   "query_text": "Global human migration flows and international movement between countries",
+   "profile": "G",
+   "items": [
+    {
+     "igv_id": "66d6d57cd28af346fda0a98b",
+     "title": "Bird Migration Explorer",
+     "description": "The Bird Migration Explorer is your guide to the heroic annual journeys made by over 450 bird species, and the challenges they face along the way.",
+     "url": "https://explorer.audubon.org/en/home",
+     "preview": "previews/66d6d57cd28af346fda0a98b.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6faf79842769ddfefe13b",
+     "title": "Ducks Unlimited Waterfowl Migration Map & Hunting Reports",
+     "description": "Follow the ducks this season using the most comprehensive waterfowl migration map on the web. Read real-time reports from DU biologists, field editors, expert waterfowlers and more.",
+     "url": "https://www.ducks.org/migrationmap",
+     "preview": "previews/66d6faf79842769ddfefe13b.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d56bca677e1a3eb334eb3d",
+     "title": "Lowy Institute Global Diplomacy Index 2024",
+     "description": "An interactive map that visualises the diplomatic networks of 66 countries and territories in Asia, the G20, and the OECD.",
+     "url": "https://globaldiplomacyindex.lowyinstitute.org/",
+     "preview": "previews/66d56bca677e1a3eb334eb3d.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6dd2ad35448426ca0660c",
+     "title": "Fairtrade Impact Map -",
+     "description": "Fairtrade Impact Map, an interactive map to explore Fairtrade projects, studies and countries we are active in.",
+     "url": "https://www.fairtrade.net/impact/fairtrade-impact-across-the-world",
+     "preview": "previews/66d6dd2ad35448426ca0660c.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q02",
+   "query_text": "Real-time air quality index and pollution conditions across the United States, current readings",
+   "profile": "A",
+   "items": [
+    {
+     "igv_id": "66d5a318f71a5d7a732e780f",
+     "title": "Fire and Smoke Map",
+     "description": "Showing air quality conditions from FINE PARTICULATE MATTER (PM2.5) generated by various sources including wildfire smoke Search for Current Fire and Smoke Conditions in a city, state or…",
+     "url": "https://fire.airnow.gov/",
+     "preview": "previews/66d5a318f71a5d7a732e780f.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d62d364c92b073b2002ba6",
+     "title": "Current air quality conditions | Minnesota Pollution Control Agency",
+     "description": "Air quality map of current conditions in Minnesota.",
+     "url": "https://www.pca.state.mn.us/air-water-land-climate/current-air-quality-conditions",
+     "preview": "previews/66d62d364c92b073b2002ba6.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d5a3a9f71a5d7a732e7815",
+     "title": "World's Air Pollution: Real-time Air Quality Index",
+     "description": "How polluted is the air today? Check out the real-time air pollution map, for more than 80 countries.",
+     "url": "https://waqi.info/",
+     "preview": "previews/66d5a3a9f71a5d7a732e7815.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d5a3f6f71a5d7a732e7818",
+     "title": "Interactive maps",
+     "description": "The monitoring data presented on this webpage contains real-time continuous data that have not been through a full quality assurance review. These data should be considered unofficial. Data…",
+     "url": "https://airquality.wi.gov/",
+     "preview": "previews/66d5a3f6f71a5d7a732e7818.png",
+     "cell_role": "strong"
+    }
+   ]
+  },
+  {
+   "query_id": "Q12",
+   "query_text": "Carbon-neutrality and sustainability commitment maps on US university campuses, 2020-2024",
+   "profile": "D",
+   "items": [
+    {
+     "igv_id": "66d622f34c92b073b2002b34",
+     "title": "Campus Sustainability Map: sustainNU - Northwestern University",
+     "description": "Take Action Recycle Certify Your Space Join a Student Group Host Sustainable Events Travel Sustainably Live Sustainably Campus Sustainability Map Policies and Guidelines Home Take Action…",
+     "url": "https://www.northwestern.edu/sustainability/take-action/campus-sustainability-map.html",
+     "preview": "previews/66d622f34c92b073b2002b34.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d62efc4c92b073b2002bb9",
+     "title": "Campus Maps | University of Nebraska–Lincoln",
+     "description": "Interactive campus map of the University of Nebraska–Lincoln, showing buildings, parking and facilities.",
+     "url": "https://maps.unl.edu/",
+     "preview": "previews/66d62efc4c92b073b2002bb9.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6f3199842769ddfefe0e3",
+     "title": "Carbon-Free Energy - Amazon Sustainability",
+     "description": "Amazon is the largest corporate purchaser of renewable energy in the world. 100% of electricity consumed in 2023 was matched with renewable energy sources.",
+     "url": "https://sustainability.aboutamazon.com/climate-solutions/carbon-free-energy",
+     "preview": "previews/66d6f3199842769ddfefe0e3.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d706d19842769ddfefe1bf",
+     "title": "METRO Interactive System Map | Bus and Rail Transit | Houston, Texas",
+     "description": "Explore Houston METRO transit services near you - local and Park & Ride bus routes, light rail lines, transit facilities, HOV lanes. Get started now.",
+     "url": "https://map.ridemetro.org/",
+     "preview": "previews/66d706d19842769ddfefe1bf.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q24",
+   "query_text": "Cross-country fair-trade producer impact and certification by country",
+   "profile": "G",
+   "items": [
+    {
+     "igv_id": "66d56bca677e1a3eb334eb3d",
+     "title": "Lowy Institute Global Diplomacy Index 2024",
+     "description": "An interactive map that visualises the diplomatic networks of 66 countries and territories in Asia, the G20, and the OECD.",
+     "url": "https://globaldiplomacyindex.lowyinstitute.org/",
+     "preview": "previews/66d56bca677e1a3eb334eb3d.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d5a71ef71a5d7a732e783b",
+     "title": "Sustainable Development Report 2024",
+     "description": "The Sustainable Development Report 2024 tracks the performance of all 193 UN Member States on the 17 Sustainable Development Goals.",
+     "url": "https://dashboards.sdgindex.org/map",
+     "preview": "previews/66d5a71ef71a5d7a732e783b.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6d5acd28af346fda0a98d",
+     "title": "Global Migration",
+     "description": "This map presents estimates of the number of international migrants by destination and origin. It uses the dataset Trends in International Migrant Stock: The 2013 Revision provided by the…",
+     "url": "https://coolmaps.esri.com/Migration/Trends/",
+     "preview": "previews/66d6d5acd28af346fda0a98d.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6f5c59842769ddfefe101",
+     "title": "Impact Map - Climate Impact Lab",
+     "description": "The Climate Impact Map provides a highly localized picture of future climate impacts across the US and the globe. Explore how climate change will affect you.",
+     "url": "https://impactlab.org/map/",
+     "preview": "previews/66d6f5c59842769ddfefe101.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q03",
+   "query_text": "Sea level rise on the US Gulf and Atlantic coast, from early-1900s tide-gauge records to 2100 projections",
+   "profile": "A",
+   "items": [
+    {
+     "igv_id": "66e89a12af2647a86e74a146",
+     "title": "Sea Level Rise and Coastal Flooding Impacts",
+     "description": "Sea Level Rise Viewer: Visualize community-level impacts from coastal flooding or sea level rise (up to 10 feet above average high tides) at U.S. coastal locations.",
+     "url": "https://coast.noaa.gov/slr/#/layer/slr",
+     "preview": "previews/66e89a12af2647a86e74a146.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d6d477d28af346fda0a97f",
+     "title": "Interactive map: How has local sea level in the United States changed over time? | NOAA Climate.gov",
+     "description": "Use this interactive map to browse a collection of animated gifs showing monthly sea level at U.S. tide-monitoring stations over their lifetimes.",
+     "url": "http://www.climate.gov/news-features/features/interactive-map-how-has-local-sea-level-united-states-changed-over-time",
+     "preview": "previews/66d6d477d28af346fda0a97f.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d6d53fd28af346fda0a988",
+     "title": "Sea Level Projection Tool – NASA Sea Level Change Portal",
+     "description": "Visualize and download global and local sea level projections from the Intergovernmental Panel on Climate Change Sixth Assessment Report.",
+     "url": "https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool",
+     "preview": "previews/66d6d53fd28af346fda0a988.png",
+     "cell_role": "strong"
+    },
+    {
+     "igv_id": "66d6fae29842769ddfefe13a",
+     "title": "NOAA Tides and Currents",
+     "description": "Tides & Currents Home Page. CO-OPS provides the national infrastructure, science, and technical expertise to monitor, assess, and distribute tide, current, water level, and other coastal…",
+     "url": "https://tidesandcurrents.noaa.gov/",
+     "preview": "previews/66d6fae29842769ddfefe13a.png",
+     "cell_role": "strong"
+    }
+   ]
+  },
+  {
+   "query_id": "Q16",
+   "query_text": "Real-time earthquake, volcano and multi-hazard alert dashboards with global coverage",
+   "profile": "E",
+   "items": [
+    {
+     "igv_id": "66d625724c92b073b2002b4f",
+     "title": "Earthquake Live Map",
+     "description": "View the latest earthquakes on an interactive map, displaying the magnitude, location, depth and the event time. The information is provided by the USGS Earthquake Hazards Program.",
+     "url": "https://earth3dmap.com/earthquake-live-map/",
+     "preview": "previews/66d625724c92b073b2002b4f.png",
+     "cell_role": "strong live"
+    },
+    {
+     "igv_id": "66d625874c92b073b2002b50",
+     "title": "LastQuake",
+     "description": "A unique earthquake detection system: a blend of collaborative work from eyewitnesses and of data collection from seismic institutes. You felt an earthquake and want to add or see…",
+     "url": "https://m.emsc.eu/",
+     "preview": "previews/66d625874c92b073b2002b50.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d6fec89842769ddfefe166",
+     "title": "GDACS - Global Disaster Alert and Coordination System",
+     "description": "Disclaimer While we try everything to ensure accuracy, this information is purely indicative and should not be used for any decision making without alternate sources of information. The JRC…",
+     "url": "https://gdacs.org/",
+     "preview": "previews/66d6fec89842769ddfefe166.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d5701d5e27b9bcf8ff9c36",
+     "title": "Smithsonian",
+     "description": "All of the data displayed in the E3 App is available for download. We provide citation guidelines for each dataset below. Additional data about volcanic eruptions can be accessed and is…",
+     "url": "http://volcano.si.axismaps.io/",
+     "preview": "previews/66d5701d5e27b9bcf8ff9c36.png",
+     "cell_role": "weak static"
+    }
+   ]
+  },
+  {
+   "query_id": "Q25",
+   "query_text": "Global diplomatic network and embassy presence index, 2024",
+   "profile": "G",
+   "items": [
+    {
+     "igv_id": "66d6f76a9842769ddfefe114",
+     "title": "Rainbow Map",
+     "description": "The Rainbow Map presents information on Europe's LGBTI Rights Rankings 2024 in a quick, intuitive and interactive way.",
+     "url": "https://rainbowmap.ilga-europe.org/",
+     "preview": "previews/66d6f76a9842769ddfefe114.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6e3549842769ddfefe02b",
+     "title": "Interactive European language map: how does everyone say cat? | News | theguardian.com",
+     "description": "Cat, gato or kissa? How do words change as we travel across the European continent?",
+     "url": "https://www.theguardian.com/news/datablog/interactive/2014/jan/15/interactive-european-language-map",
+     "preview": "previews/66d6e3549842769ddfefe02b.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6e31c9842769ddfefe028",
+     "title": "Interactive map of Europe",
+     "description": "A tool for creating maps highlighting different European countries",
+     "url": "https://philarcher.org/diary/2013/euromap/",
+     "preview": "previews/66d6e31c9842769ddfefe028.png",
+     "cell_role": "weak"
+    },
+    {
+     "igv_id": "66d6270d4c92b073b2002b61",
+     "title": "Border Wall System | U.S. Customs and Border Protection",
+     "description": "Securing America's Borders",
+     "url": "https://www.cbp.gov/border-security/along-us-borders/border-wall-system",
+     "preview": "previews/66d6270d4c92b073b2002b61.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q04",
+   "query_text": "Wildfire smoke and ground-level air quality around Seattle and the Cascades in the 2023 fire season",
+   "profile": "B",
+   "items": [
+    {
+     "igv_id": "66d5a318f71a5d7a732e780f",
+     "title": "Fire and Smoke Map",
+     "description": "Showing air quality conditions from FINE PARTICULATE MATTER (PM2.5) generated by various sources including wildfire smoke Search for Current Fire and Smoke Conditions in a city, state or…",
+     "url": "https://fire.airnow.gov/",
+     "preview": "previews/66d5a318f71a5d7a732e780f.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d701a49842769ddfefe186",
+     "title": "Air Pollution in Asia: Real-time Air Quality Index Visual Map",
+     "description": "How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.",
+     "url": "https://aqicn.org/map/asia/",
+     "preview": "previews/66d701a49842769ddfefe186.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d708f69842769ddfefe1d9",
+     "title": "Interactive Map - Mountains To Sound Greenway Trust",
+     "description": "Use the interactive map below to find fun things to do across the Mountains to Sound Greenway National Heritage Area, including hikes, camping, parks, and more.",
+     "url": "https://mtsgreenway.org/explore/map/",
+     "preview": "previews/66d708f69842769ddfefe1d9.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d56bca677e1a3eb334eb3d",
+     "title": "Lowy Institute Global Diplomacy Index 2024",
+     "description": "An interactive map that visualises the diplomatic networks of 66 countries and territories in Asia, the G20, and the OECD.",
+     "url": "https://globaldiplomacyindex.lowyinstitute.org/",
+     "preview": "previews/66d56bca677e1a3eb334eb3d.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q09",
+   "query_text": "US internal migration and neighbourhood demographic change across multi-decade periods, 1990-2020",
+   "profile": "C",
+   "items": [
+    {
+     "igv_id": "66d5a972f71a5d7a732e7856",
+     "title": "U.S. County Migration Patterns",
+     "description": "Interactive map of county-to-county migration flows across the United States, from U.S. Census data.",
+     "url": "https://flowsmapper.geo.census.gov/map.html",
+     "preview": "previews/66d5a972f71a5d7a732e7856.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d6d5acd28af346fda0a98d",
+     "title": "Global Migration",
+     "description": "This map presents estimates of the number of international migrants by destination and origin. It uses the dataset Trends in International Migrant Stock: The 2013 Revision provided by the…",
+     "url": "https://coolmaps.esri.com/Migration/Trends/",
+     "preview": "previews/66d6d5acd28af346fda0a98d.png",
+     "cell_role": "topic, wrong scope"
+    },
+    {
+     "igv_id": "66d6d57cd28af346fda0a98b",
+     "title": "Bird Migration Explorer",
+     "description": "The Bird Migration Explorer is your guide to the heroic annual journeys made by over 450 bird species, and the challenges they face along the way.",
+     "url": "https://explorer.audubon.org/en/home",
+     "preview": "previews/66d6d57cd28af346fda0a98b.png",
+     "cell_role": "topic, wrong domain"
+    },
+    {
+     "igv_id": "66d56bca677e1a3eb334eb3d",
+     "title": "Lowy Institute Global Diplomacy Index 2024",
+     "description": "An interactive map that visualises the diplomatic networks of 66 countries and territories in Asia, the G20, and the OECD.",
+     "url": "https://globaldiplomacyindex.lowyinstitute.org/",
+     "preview": "previews/66d56bca677e1a3eb334eb3d.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q26",
+   "query_text": "Real-time street traffic and travel-time maps for a US metropolitan area",
+   "profile": "X",
+   "items": [
+    {
+     "igv_id": "66d6fae29842769ddfefe13a",
+     "title": "NOAA Tides and Currents",
+     "description": "Tides & Currents Home Page. CO-OPS provides the national infrastructure, science, and technical expertise to monitor, assess, and distribute tide, current, water level, and other coastal…",
+     "url": "https://tidesandcurrents.noaa.gov/",
+     "preview": "previews/66d6fae29842769ddfefe13a.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d622f34c92b073b2002b34",
+     "title": "Campus Sustainability Map: sustainNU - Northwestern University",
+     "description": "Take Action Recycle Certify Your Space Join a Student Group Host Sustainable Events Travel Sustainably Live Sustainably Campus Sustainability Map Policies and Guidelines Home Take Action…",
+     "url": "https://www.northwestern.edu/sustainability/take-action/campus-sustainability-map.html",
+     "preview": "previews/66d622f34c92b073b2002b34.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d6f16f9842769ddfefe0d0",
+     "title": "California Marine Protected Areas (MPAs)",
+     "description": "California's Marine Protected Areas",
+     "url": "https://wildlife.ca.gov/Conservation/Marine/MPAs",
+     "preview": "previews/66d6f16f9842769ddfefe0d0.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d6f8889842769ddfefe120",
+     "title": "Summer Meal Site Map",
+     "description": "Summer meals are now being served in a community near you in Texas! Healthy, no-cost meals are available to kids 18 and younger and enrolled students with disabilities up to 21 years old.…",
+     "url": "https://squaremeals.org/Programs/Summer-Meal-Programs/Summer-Meal-Site-Map",
+     "preview": "previews/66d6f8889842769ddfefe120.png",
+     "cell_role": "irrelevant"
+    }
+   ]
+  },
+  {
+   "query_id": "Q05",
+   "query_text": "Zoning district, parcel and development-permit lookup maps for Nashville, Tennessee",
+   "profile": "B",
+   "items": [
+    {
+     "igv_id": "66e89ab0af2647a86e74a14d",
+     "title": "Parcel Viewer",
+     "description": "Interactive parcel viewer for Nashville and Davidson County — search property parcels, ownership and zoning.",
+     "url": "https://maps.nashville.gov/ParcelViewer/",
+     "preview": "previews/66e89ab0af2647a86e74a14d.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d5a95af71a5d7a732e7855",
+     "title": "Kettering Interactive Zoning & Pattern District Map - Kettering",
+     "description": "Interactive zoning and pattern-district map for the City of Kettering, Ohio.",
+     "url": "https://www.ketteringoh.org/kettering-interactive-zoning-map/",
+     "preview": "previews/66d5a95af71a5d7a732e7855.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d7064b9842769ddfefe1b9",
+     "title": "Interactive Hospital Map - Tennessee Hospital Association",
+     "description": "TENNESSEE HOSPITALS Find a hospital near you. Filter By: category View All Behavioral Health General Acute Care Long Term Acute Care Pediatric Rehab System county View All Anderson Bedford…",
+     "url": "https://tha.com/hospitals/map/",
+     "preview": "previews/66d7064b9842769ddfefe1b9.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6d5acd28af346fda0a98d",
+     "title": "Global Migration",
+     "description": "This map presents estimates of the number of international migrants by destination and origin. It uses the dataset Trends in International Migrant Stock: The 2013 Revision provided by the…",
+     "url": "https://coolmaps.esri.com/Migration/Trends/",
+     "preview": "previews/66d6d5acd28af346fda0a98d.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q13",
+   "query_text": "Trail and visitor maps for US mountain-west national parks, 2021-2024",
+   "profile": "D",
+   "items": [
+    {
+     "igv_id": "66d7115f9842769ddfefe235",
+     "title": "Maps - Glacier National Park (U.S. National Park Service)",
+     "description": "Click on the arrow in the map's top left corner to toggle between the Brochure Map and the interactive Park Tiles map. You can find other versions and downloads of park maps at…",
+     "url": "https://www.nps.gov/glac/planyourvisit/maps.htm",
+     "preview": "previews/66d7115f9842769ddfefe235.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d5b015273dcf549226919d",
+     "title": "Maps - Minute Man National Historical Park (U.S. National Park Service)",
+     "description": "The map shown above can be changed between \"park tiles\" and \"brochure\" maps by using the drop down menu in the upper left hand corner of the map. Click on the map type and select either…",
+     "url": "https://www.nps.gov/mima/planyourvisit/maps.htm",
+     "preview": "previews/66d5b015273dcf549226919d.png",
+     "cell_role": "place-type, wrong region"
+    },
+    {
+     "igv_id": "66d6d554d28af346fda0a989",
+     "title": "Interactive Map | Mountains-to-Sea Trail",
+     "description": "This interactive Google map allows you to explore multiple aspects of the MST – the route across the state, terrain, and satellite imagery.",
+     "url": "https://mountainstoseatrail.org/the-trail/map/",
+     "preview": "previews/66d6d554d28af346fda0a989.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d6f76a9842769ddfefe114",
+     "title": "Rainbow Map",
+     "description": "The Rainbow Map presents information on Europe's LGBTI Rights Rankings 2024 in a quick, intuitive and interactive way.",
+     "url": "https://rainbowmap.ilga-europe.org/",
+     "preview": "previews/66d6f76a9842769ddfefe114.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q27",
+   "query_text": "County property-parcel and tax-assessment lookup maps, 2024",
+   "profile": "X",
+   "items": [
+    {
+     "igv_id": "66d5a318f71a5d7a732e780f",
+     "title": "Fire and Smoke Map",
+     "description": "Showing air quality conditions from FINE PARTICULATE MATTER (PM2.5) generated by various sources including wildfire smoke Search for Current Fire and Smoke Conditions in a city, state or…",
+     "url": "https://fire.airnow.gov/",
+     "preview": "previews/66d5a318f71a5d7a732e780f.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d6d57cd28af346fda0a98b",
+     "title": "Bird Migration Explorer",
+     "description": "The Bird Migration Explorer is your guide to the heroic annual journeys made by over 450 bird species, and the challenges they face along the way.",
+     "url": "https://explorer.audubon.org/en/home",
+     "preview": "previews/66d6d57cd28af346fda0a98b.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d56bca677e1a3eb334eb3d",
+     "title": "Lowy Institute Global Diplomacy Index 2024",
+     "description": "An interactive map that visualises the diplomatic networks of 66 countries and territories in Asia, the G20, and the OECD.",
+     "url": "https://globaldiplomacyindex.lowyinstitute.org/",
+     "preview": "previews/66d56bca677e1a3eb334eb3d.png",
+     "cell_role": "irrelevant"
+    },
+    {
+     "igv_id": "66d5a1c4f71a5d7a732e7800",
+     "title": "earth :: a global map of wind, weather, and ocean conditions",
+     "description": "See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.",
+     "url": "https://earth.nullschool.net/",
+     "preview": "previews/66d5a1c4f71a5d7a732e7800.png",
+     "cell_role": "irrelevant"
+    }
+   ]
+  },
+  {
+   "query_id": "Q06",
+   "query_text": "Building-age and historic-district maps of New York City neighbourhoods, 1820s to present",
+   "profile": "B",
+   "items": [
+    {
+     "igv_id": "66d571375e27b9bcf8ff9c43",
+     "title": "Bklynr | Block by Block, Brooklyn’s Past and Present",
+     "description": "In-depth stories about Brooklyn — all of Brooklyn.",
+     "url": "http://bklynr.com/block-by-block-brooklyns-past-and-present/",
+     "preview": "previews/66d571375e27b9bcf8ff9c43.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d5b015273dcf549226919d",
+     "title": "Maps - Minute Man National Historical Park (U.S. National Park Service)",
+     "description": "The map shown above can be changed between \"park tiles\" and \"brochure\" maps by using the drop down menu in the upper left hand corner of the map. Click on the map type and select either…",
+     "url": "https://www.nps.gov/mima/planyourvisit/maps.htm",
+     "preview": "previews/66d5b015273dcf549226919d.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d7053d9842769ddfefe1ae",
+     "title": "NYC Tree Map",
+     "description": "Explore and learn about New York City’s trees. Discover their species and diameter, record your stewardship activities, and share favorite trees with friends.",
+     "url": "https://tree-map.nycgovparks.org/",
+     "preview": "previews/66d7053d9842769ddfefe1ae.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6f76a9842769ddfefe114",
+     "title": "Rainbow Map",
+     "description": "The Rainbow Map presents information on Europe's LGBTI Rights Rankings 2024 in a quick, intuitive and interactive way.",
+     "url": "https://rainbowmap.ilga-europe.org/",
+     "preview": "previews/66d6f76a9842769ddfefe114.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q17",
+   "query_text": "Real-time severe-weather alerts and warnings across the United States, active now",
+   "profile": "E",
+   "items": [
+    {
+     "igv_id": "66d5a153f71a5d7a732e77fb",
+     "title": "National Weather Service - Graphical Forecast",
+     "description": "ACTIVE ALERTS Warnings By State Excessive Rainfall and Winter Weather Forecasts River Flooding Latest Warnings Thunderstorm/Tornado Outlook Hurricanes Fire Weather Outlooks UV Alerts…",
+     "url": "https://digital.weather.gov/",
+     "preview": "previews/66d5a153f71a5d7a732e77fb.png",
+     "cell_role": "strong live"
+    },
+    {
+     "igv_id": "66d5a19bf71a5d7a732e77fe",
+     "title": "NWS Radar",
+     "description": "An official website of the United States government Answers to common questions on our FAQ and Glossary or contact us. Learn more about the National Weather Service mission and vision.…",
+     "url": "https://radar.weather.gov/",
+     "preview": "previews/66d5a19bf71a5d7a732e77fe.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66e888fedca1e1ff7088bd24",
+     "title": "Weather Prediction Center",
+     "description": "US Dept of Commerce NOAA / NWS / NCEP Weather Prediction Center 5830 University Research Court College Park, MD 20740 Weather Prediction Center Web Team",
+     "url": "https://www.wpc.ncep.noaa.gov/NationalForecastChart/map.php",
+     "preview": "previews/66e888fedca1e1ff7088bd24.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d570b15e27b9bcf8ff9c3d",
+     "title": "Five Years of Drought – Adventures In Mapping",
+     "description": "*** This method has been used more recently to map the past six months of drought afflicting the southeastern United States. *** Maps This is a map showing over five years of drought data…",
+     "url": "https://adventuresinmapping.com/2016/07/12/five-years-of-drought/",
+     "preview": "previews/66d570b15e27b9bcf8ff9c3d.png",
+     "cell_role": "weak static"
+    }
+   ]
+  },
+  {
+   "query_id": "Q20",
+   "query_text": "Drought and water-supply conditions across the American Southwest, 2022",
+   "profile": "F",
+   "items": [
+    {
+     "igv_id": "66d570b15e27b9bcf8ff9c3d",
+     "title": "Five Years of Drought – Adventures In Mapping",
+     "description": "*** This method has been used more recently to map the past six months of drought afflicting the southeastern United States. *** Maps This is a map showing over five years of drought data…",
+     "url": "https://adventuresinmapping.com/2016/07/12/five-years-of-drought/",
+     "preview": "previews/66d570b15e27b9bcf8ff9c3d.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d6fae29842769ddfefe13a",
+     "title": "NOAA Tides and Currents",
+     "description": "Tides & Currents Home Page. CO-OPS provides the national infrastructure, science, and technical expertise to monitor, assess, and distribute tide, current, water level, and other coastal…",
+     "url": "https://tidesandcurrents.noaa.gov/",
+     "preview": "previews/66d6fae29842769ddfefe13a.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d62ca04c92b073b2002b9f",
+     "title": "Hydromet - Map View - Stream Flow and Weather",
+     "description": "LCRA’s Hydromet is a system of more than 275 automated river and weather gauges throughout the lower Colorado River basin in Texas. The Hydromet provides near-real-time data* on streamflow,…",
+     "url": "https://hydromet.lcra.org/",
+     "preview": "previews/66d62ca04c92b073b2002b9f.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d6f5c59842769ddfefe101",
+     "title": "Impact Map - Climate Impact Lab",
+     "description": "The Climate Impact Map provides a highly localized picture of future climate impacts across the US and the globe. Explore how climate change will affect you.",
+     "url": "https://impactlab.org/map/",
+     "preview": "previews/66d6f5c59842769ddfefe101.png",
+     "cell_role": "moderate"
+    }
+   ]
+  },
+  {
+   "query_id": "Q07",
+   "query_text": "Bike-share station usage and ridership across New York City, 2024",
+   "profile": "B",
+   "items": [
+    {
+     "igv_id": "66d573375e27b9bcf8ff9c58",
+     "title": "A Tale of Twenty-Two Million Citi Bike Rides: Analyzing the NYC Bike Share System - Todd W. Schneider",
+     "description": "Analysis and visualization of the New York City bike share system",
+     "url": "http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/",
+     "preview": "previews/66d573375e27b9bcf8ff9c58.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d5738b5e27b9bcf8ff9c5c",
+     "title": "Hubway",
+     "description": "As engineers and scientists with a keen interest in civic responsibility and public policy, we set out to find the unusual and the extraordinary in the last six years of Hubway data.",
+     "url": "https://hubway.countlove.org/",
+     "preview": "previews/66d5738b5e27b9bcf8ff9c5c.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d571b65e27b9bcf8ff9c48",
+     "title": "Mapping the Shadows of New York City: Every Building, Every Block - The New York Times",
+     "description": "The struggle for light and air through thousands of New York’s buildings.",
+     "url": "https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html?_r=0",
+     "preview": "previews/66d571b65e27b9bcf8ff9c48.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6dd2ad35448426ca0660c",
+     "title": "Fairtrade Impact Map -",
+     "description": "Fairtrade Impact Map, an interactive map to explore Fairtrade projects, studies and countries we are active in.",
+     "url": "https://www.fairtrade.net/impact/fairtrade-impact-across-the-world",
+     "preview": "previews/66d6dd2ad35448426ca0660c.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q10",
+   "query_text": "Urban street-tree canopy and tree-species maps across New York City, 2024",
+   "profile": "C",
+   "items": [
+    {
+     "igv_id": "66d7053d9842769ddfefe1ae",
+     "title": "NYC Tree Map",
+     "description": "Explore and learn about New York City’s trees. Discover their species and diameter, record your stewardship activities, and share favorite trees with friends.",
+     "url": "https://tree-map.nycgovparks.org/",
+     "preview": "previews/66d7053d9842769ddfefe1ae.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d709379842769ddfefe1dd",
+     "title": "Maps - Cuyahoga Valley National Park (U.S. National Park Service)",
+     "description": "Note: To save a map from this page, right-click the image and select \"Save image as...\" to download it to your device. Canal Exploration Center (north end of the park) (formerly the Canal…",
+     "url": "https://www.nps.gov/cuva/planyourvisit/maps.htm",
+     "preview": "previews/66d709379842769ddfefe1dd.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d571b65e27b9bcf8ff9c48",
+     "title": "Mapping the Shadows of New York City: Every Building, Every Block - The New York Times",
+     "description": "The struggle for light and air through thousands of New York’s buildings.",
+     "url": "https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html?_r=0",
+     "preview": "previews/66d571b65e27b9bcf8ff9c48.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d707709842769ddfefe1c7",
+     "title": "OpenRailwayMap",
+     "description": "OpenRailwayMap - An OpenStreetMap-based project for creating a map of the world's railway infrastructure.",
+     "url": "https://www.openrailwaymap.org/",
+     "preview": "previews/66d707709842769ddfefe1c7.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q21",
+   "query_text": "US county-to-county migration and commuting patterns in recent years",
+   "profile": "F",
+   "items": [
+    {
+     "igv_id": "66d5a972f71a5d7a732e7856",
+     "title": "U.S. County Migration Patterns",
+     "description": "Interactive map of county-to-county migration flows across the United States, from U.S. Census data.",
+     "url": "https://flowsmapper.geo.census.gov/map.html",
+     "preview": "previews/66d5a972f71a5d7a732e7856.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d6d84ad28af346fda0a9ac",
+     "title": "CityApp",
+     "description": "Climate change has already begun to transform planet Earth, and over the next few decades these dramatic transformations are expected to accelerate in an ongoing response to greenhouse gas…",
+     "url": "https://fitzlab.shinyapps.io/cityapp/",
+     "preview": "previews/66d6d84ad28af346fda0a9ac.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66e8905faf2647a86e74a0ed",
+     "title": "SDOT Travelers Home Page",
+     "description": "Seattle Department of Transportation traveller map — real-time roads, bridges and transit information.",
+     "url": "https://web.seattle.gov/Travelers/",
+     "preview": "previews/66e8905faf2647a86e74a0ed.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d572485e27b9bcf8ff9c4d",
+     "title": "Ungentry",
+     "description": "A concern that many of us have is that the rapid gentrification happening in places such as San Francisco is having a negative impact on affordability. Is Boston susceptible? Is it possible…",
+     "url": "http://codeforboston.github.io/ungentry/",
+     "preview": "previews/66d572485e27b9bcf8ff9c4d.png",
+     "cell_role": "moderate"
+    }
+   ]
+  },
+  {
+   "query_id": "Q14",
+   "query_text": "Marine protected areas and coastal wildlife habitat boundary maps for California",
+   "profile": "D",
+   "items": [
+    {
+     "igv_id": "66d6f16f9842769ddfefe0d0",
+     "title": "California Marine Protected Areas (MPAs)",
+     "description": "California's Marine Protected Areas",
+     "url": "https://wildlife.ca.gov/Conservation/Marine/MPAs",
+     "preview": "previews/66d6f16f9842769ddfefe0d0.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d6f4589842769ddfefe0f1",
+     "title": "California Coastal Commission",
+     "description": "Welcome to California Coastal Cleanup Day! Saturday, September 21st is the 40th anniversary of this amazing event. To participate, check the map for the cleanup site you want to join. All…",
+     "url": "https://www.coastal.ca.gov/publiced/ccd/ccd.html",
+     "preview": "previews/66d6f4589842769ddfefe0f1.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6faf79842769ddfefe13b",
+     "title": "Ducks Unlimited Waterfowl Migration Map & Hunting Reports",
+     "description": "Follow the ducks this season using the most comprehensive waterfowl migration map on the web. Read real-time reports from DU biologists, field editors, expert waterfowlers and more.",
+     "url": "https://www.ducks.org/migrationmap",
+     "preview": "previews/66d6faf79842769ddfefe13b.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d5a6c3f71a5d7a732e7837",
+     "title": "UP: UP Steam Locomotive Tracking",
+     "description": "Track Union Pacific's Big Boy No. 4014 as it travels across our 23 state network.",
+     "url": "https://www.up.com/heritage/steam/track/index.htm",
+     "preview": "previews/66d5a6c3f71a5d7a732e7837.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q18",
+   "query_text": "Current wildfire perimeters, active fires and smoke conditions this fire season",
+   "profile": "E",
+   "items": [
+    {
+     "igv_id": "66e89d28af2647a86e74a168",
+     "title": "Wildfire Aware",
+     "description": "information about the current status and potential impact of wildfire incidents in the United States.",
+     "url": "https://livingatlas.arcgis.com/wildfireaware/#",
+     "preview": "previews/66e89d28af2647a86e74a168.png",
+     "cell_role": "strong live"
+    },
+    {
+     "igv_id": "66d5a318f71a5d7a732e780f",
+     "title": "Fire and Smoke Map",
+     "description": "Showing air quality conditions from FINE PARTICULATE MATTER (PM2.5) generated by various sources including wildfire smoke Search for Current Fire and Smoke Conditions in a city, state or…",
+     "url": "https://fire.airnow.gov/",
+     "preview": "previews/66d5a318f71a5d7a732e780f.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d5a345f71a5d7a732e7811",
+     "title": "Smoke Forecast - FireSmoke.ca",
+     "description": "Ground level concentration of particulate matter 2.5 microns and smaller (PM 2.5 ) in units of micrograms per meter cubed (μg/m 3 ). The BlueSky Canada smoke forecast is our current best…",
+     "url": "https://firesmoke.ca/forecasts/current/",
+     "preview": "previews/66d5a345f71a5d7a732e7811.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d6d5acd28af346fda0a98d",
+     "title": "Global Migration",
+     "description": "This map presents estimates of the number of international migrants by destination and origin. It uses the dataset Trends in International Migrant Stock: The 2013 Revision provided by the…",
+     "url": "https://coolmaps.esri.com/Migration/Trends/",
+     "preview": "previews/66d6d5acd28af346fda0a98d.png",
+     "cell_role": "weak static"
+    }
+   ]
+  },
+  {
+   "query_id": "Q22",
+   "query_text": "Regional temperature and precipitation outlook across the US Southwest",
+   "profile": "F",
+   "items": [
+    {
+     "igv_id": "66e888fedca1e1ff7088bd24",
+     "title": "Weather Prediction Center",
+     "description": "US Dept of Commerce NOAA / NWS / NCEP Weather Prediction Center 5830 University Research Court College Park, MD 20740 Weather Prediction Center Web Team",
+     "url": "https://www.wpc.ncep.noaa.gov/NationalForecastChart/map.php",
+     "preview": "previews/66e888fedca1e1ff7088bd24.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d62cb54c92b073b2002ba0",
+     "title": "Südheide, Lower Saxony, DE | Weather Maps, Radar and Satellite | WeatherBug",
+     "description": "Latest weather radar map with temperature, wind chill, heat index, dew point, humidity and wind speed for Südheide, Lower Saxony, DE",
+     "url": "https://www.weatherbug.com/maps",
+     "preview": "previews/66d62cb54c92b073b2002ba0.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d625a04c92b073b2002b51",
+     "title": "GIS",
+     "description": "Low relative humidity, gusty winds, and dry lightning are contributing to critical fire weather across parts of the northern High Plains and northern Great Basin today and Tuesday. Locally…",
+     "url": "https://www.weather.gov/gis/",
+     "preview": "previews/66d625a04c92b073b2002b51.png",
+     "cell_role": "moderate"
+    },
+    {
+     "igv_id": "66d62ca04c92b073b2002b9f",
+     "title": "Hydromet - Map View - Stream Flow and Weather",
+     "description": "LCRA’s Hydromet is a system of more than 275 automated river and weather gauges throughout the lower Colorado River basin in Texas. The Hydromet provides near-real-time data* on streamflow,…",
+     "url": "https://hydromet.lcra.org/",
+     "preview": "previews/66d62ca04c92b073b2002b9f.png",
+     "cell_role": "moderate"
+    }
+   ]
+  },
+  {
+   "query_id": "Q11",
+   "query_text": "Multi-year drought severity and water-shortage conditions across the United States, 2019-2023",
+   "profile": "C",
+   "items": [
+    {
+     "igv_id": "66d570b15e27b9bcf8ff9c3d",
+     "title": "Five Years of Drought – Adventures In Mapping",
+     "description": "*** This method has been used more recently to map the past six months of drought afflicting the southeastern United States. *** Maps This is a map showing over five years of drought data…",
+     "url": "https://adventuresinmapping.com/2016/07/12/five-years-of-drought/",
+     "preview": "previews/66d570b15e27b9bcf8ff9c3d.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66d6f5c59842769ddfefe101",
+     "title": "Impact Map - Climate Impact Lab",
+     "description": "The Climate Impact Map provides a highly localized picture of future climate impacts across the US and the globe. Explore how climate change will affect you.",
+     "url": "https://impactlab.org/map/",
+     "preview": "previews/66d6f5c59842769ddfefe101.png",
+     "cell_role": "topic, wrong scope"
+    },
+    {
+     "igv_id": "66d6fae29842769ddfefe13a",
+     "title": "NOAA Tides and Currents",
+     "description": "Tides & Currents Home Page. CO-OPS provides the national infrastructure, science, and technical expertise to monitor, assess, and distribute tide, current, water level, and other coastal…",
+     "url": "https://tidesandcurrents.noaa.gov/",
+     "preview": "previews/66d6fae29842769ddfefe13a.png",
+     "cell_role": "place, wrong topic"
+    },
+    {
+     "igv_id": "66d6e3549842769ddfefe02b",
+     "title": "Interactive European language map: how does everyone say cat? | News | theguardian.com",
+     "description": "Cat, gato or kissa? How do words change as we travel across the European continent?",
+     "url": "https://www.theguardian.com/news/datablog/interactive/2014/jan/15/interactive-european-language-map",
+     "preview": "previews/66d6e3549842769ddfefe02b.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q15",
+   "query_text": "City council district, parcel and neighbourhood boundary maps for Detroit, Michigan, 2023",
+   "profile": "D",
+   "items": [
+    {
+     "igv_id": "66d5a550f71a5d7a732e7828",
+     "title": "Interactive District Map | City of Detroit",
+     "description": "The Dept of Neighborhoods does not create boundaries. Boundaries can overlap neighborhoods",
+     "url": "https://detroitmi.gov/webapp/interactive-district-map",
+     "preview": "previews/66d5a550f71a5d7a732e7828.png",
+     "cell_role": "strong topic+place"
+    },
+    {
+     "igv_id": "66e89ab0af2647a86e74a14d",
+     "title": "Parcel Viewer",
+     "description": "Interactive parcel viewer for Nashville and Davidson County — search property parcels, ownership and zoning.",
+     "url": "https://maps.nashville.gov/ParcelViewer/",
+     "preview": "previews/66e89ab0af2647a86e74a14d.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d5a95af71a5d7a732e7855",
+     "title": "Kettering Interactive Zoning & Pattern District Map - Kettering",
+     "description": "Interactive zoning and pattern-district map for the City of Kettering, Ohio.",
+     "url": "https://www.ketteringoh.org/kettering-interactive-zoning-map/",
+     "preview": "previews/66d5a95af71a5d7a732e7855.png",
+     "cell_role": "topic, wrong place"
+    },
+    {
+     "igv_id": "66d6d57cd28af346fda0a98b",
+     "title": "Bird Migration Explorer",
+     "description": "The Bird Migration Explorer is your guide to the heroic annual journeys made by over 450 bird species, and the challenges they face along the way.",
+     "url": "https://explorer.audubon.org/en/home",
+     "preview": "previews/66d6d57cd28af346fda0a98b.png",
+     "cell_role": "weak"
+    }
+   ]
+  },
+  {
+   "query_id": "Q19",
+   "query_text": "Live global wind, weather and ocean conditions, updated in real time",
+   "profile": "E",
+   "items": [
+    {
+     "igv_id": "66d5a1c4f71a5d7a732e7800",
+     "title": "earth :: a global map of wind, weather, and ocean conditions",
+     "description": "See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.",
+     "url": "https://earth.nullschool.net/",
+     "preview": "previews/66d5a1c4f71a5d7a732e7800.png",
+     "cell_role": "strong live"
+    },
+    {
+     "igv_id": "66d5a17ff71a5d7a732e77fd",
+     "title": "Ventusky - Wind, Rain and Temperature Maps",
+     "description": "Live wind, rain, radar or temperature maps, more than 50 weather layers, detailed forecast for your place, data from the best weather forecast models with high resolution",
+     "url": "https://www.ventusky.com/",
+     "preview": "previews/66d5a17ff71a5d7a732e77fd.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d5a13cf71a5d7a732e77fa",
+     "title": "WunderMap® | Interactive Weather Map and Radar | Weather Underground",
+     "description": "Weather Underground’s WunderMap provides interactive weather and radar Maps for weather conditions for locations worldwide.",
+     "url": "https://www.wunderground.com/wundermap",
+     "preview": "previews/66d5a13cf71a5d7a732e77fa.png",
+     "cell_role": "live"
+    },
+    {
+     "igv_id": "66d5a71ef71a5d7a732e783b",
+     "title": "Sustainable Development Report 2024",
+     "description": "The Sustainable Development Report 2024 tracks the performance of all 193 UN Member States on the 17 Sustainable Development Goals.",
+     "url": "https://dashboards.sdgindex.org/map",
+     "preview": "previews/66d5a71ef71a5d7a732e783b.png",
+     "cell_role": "weak static"
+    }
+   ]
+  }
+ ]
+}
